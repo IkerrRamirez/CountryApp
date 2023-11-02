@@ -1,0 +1,9 @@
+.alert {
+    display: flex;
+    flex-direction: column;
+}
+
+.spinner-border {
+    margin: 10px auto;
+    justify-content: center;
+}
